@@ -52,20 +52,10 @@ python3 -m http.server 8000
 └── README.md
 ```
 
-## 🌐 Publicando no GitHub Pages
-
-1. Vá em **Settings → Pages** no repositório.
-2. Em *Source*, escolha a branch `main` e a pasta `/ (root)`.
-3. Salve e aguarde o link ser gerado.
-
 ## 🎓 Contexto
 
 Material desenvolvido para apresentação de seminário sobre segurança em barramentos, com foco em ataques DMA via Thunderbolt/USB4/PCIe e mitigação com IOMMU. As simulações têm **fins estritamente educacionais** e não executam nenhum ataque real.
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
-
 ## 👤 Autor
 
-**João Pedro** — [@seu-usuario](https://github.com/seu-usuario)
+**João Pedro Nogueira Hartung** — (https://github.com/Mxguinho)
